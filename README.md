@@ -1,6 +1,6 @@
 # 05 · SoC Integration
 
-**Part of [FPGA Journey](https://github.com/YOUR_USERNAME/fpga-journey)**
+**Part of [FPGA Journey](https://github.com/umairahmadh/fpga-journey)**
 
 > Connecting a CPU to the real world: bus fabric, memory map, peripherals, and running C programs on a computer you built yourself.
 
@@ -108,4 +108,4 @@ When that works in simulation, you understand the machine. When it works on sili
 
 ---
 
-**← Previous:** [04 · RISC-V CPU](https://github.com/YOUR_USERNAME/fpga-04-riscv-cpu) &nbsp;|&nbsp; **See also:** [06 · Verification](https://github.com/YOUR_USERNAME/fpga-06-verification) &nbsp;|&nbsp; **Next →** [07 · Research](https://github.com/YOUR_USERNAME/fpga-07-research)
+**← Previous:** [04 · RISC-V CPU](https://github.com/umairahmadh/fpga-04-riscv-cpu) &nbsp;|&nbsp; **See also:** [06 · Verification](https://github.com/umairahmadh/fpga-06-verification) &nbsp;|&nbsp; **Next →** [07 · Research](https://github.com/umairahmadh/fpga-07-research)
